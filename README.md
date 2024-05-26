@@ -3,6 +3,8 @@ A web application that displays weather information in the same visual presentat
 
 Forked from [qconrad's incredible effort](https://github.com/qconrad/intellistar-emulator) to serve as a more frequently updated, bleeding edge version of this project. (See Contributing.)
 
+[![build-docker](https://github.com/pooh-bear/intellistar-emulator/actions/workflows/build-docker.yaml/badge.svg)](https://github.com/pooh-bear/intellistar-emulator/actions/workflows/build-docker.yaml)  
+
 ## Overview
 This is a local forecast segment that airs on The Weather Channel called the "Local on the 8s". The name is because it airs at timeslots that end in "8" (9:28, 2:48, etc.). The forecast is approximately a minute long and provides information on current and forecasted weather conditions. This type of forecast started in 1982 using WeatherStar units. It was later upgraded to Intellistar in 2003 and received various graphic changes over the years. This emulator uses the style that started in 2013.
 
