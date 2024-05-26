@@ -38,7 +38,7 @@ To enable or disable looping, click on the TWC logo in the info-bar in the top-l
 ## Contributing
 Whilst I pay massive respects to all [the previous contributors](https://github.com/qconrad/intellistar-emulator/graphs/contributors) of this project, things seem to be breaking faster than contributors' activeness with the project/on Github. I also think there's a lot of potential yet to be baked into this! Through this fork, I'll be adding in what I think are important fixes and features (major, QOL, or otherwise) that may not be in the target vision of the original contributors.  
 
-I endeavor to push as much, if not all, contributions, upstream, however, this forks serve to be a more "active" repo, as I am actively working on other projects/repos on Github as a full time software engineer.  
+I endeavor to push as much, if not all, contributions, upstream, however, this fork serves to be a more "active" repo compared to original, as I am actively working on other projects/repos on Github as a full time software engineer.  
 
 So please feel free to contribute if you'd like to! All are welcome, no matter if it's your first or thousandth time that you're contributing to Open Source Software. Please create a PR and tag me (@pooh-bear) for review! I endeavor to initially glace/comment through on all PRs I receive within 24-48 hours, and approve/merge all good-standing PRs expediciously.
 
